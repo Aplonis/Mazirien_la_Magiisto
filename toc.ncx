@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="eo">
+  <head>
+    <meta content="2e015888-43b4-46b1-a506-87138ed0a87a" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.16.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Mazirien la Magiisto (cxiuj 6 rakontoj)</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="num_1" playOrder="1">
+      <navLabel>
+        <text>Kovrilo</text>
+      </navLabel>
+      <content src="cover.xhtml"/>
+    </navPoint>
+    <navPoint id="num_2" playOrder="2">
+      <navLabel>
+        <text>Titola Paĝo</text>
+      </navLabel>
+      <content src="Titola_Pagxo.xhtml"/>
+    </navPoint>
+    <navPoint id="num_3" playOrder="3">
+      <navLabel>
+        <text>Antaŭparolo</text>
+      </navLabel>
+      <content src="Antauxparolo.xhtml"/>
+    </navPoint>
+    <navPoint id="num_4" playOrder="4">
+      <navLabel>
+        <text>Mazirian la Magiisto</text>
+      </navLabel>
+      <content src="01-01.xhtml"/>
+    </navPoint>
+    <navPoint id="num_5" playOrder="5">
+      <navLabel>
+        <text>Turĝun de Mijr</text>
+      </navLabel>
+      <content src="01-02.xhtml"/>
+    </navPoint>
+    <navPoint id="num_6" playOrder="6">
+      <navLabel>
+        <text>Tsajs</text>
+      </navLabel>
+      <content src="01-03.xhtml"/>
+    </navPoint>
+    <navPoint id="num_7" playOrder="7">
+      <navLabel>
+        <text>Liejn la Vojiranto</text>
+      </navLabel>
+      <content src="01-04.xhtml"/>
+    </navPoint>
+    <navPoint id="num_8" playOrder="8">
+      <navLabel>
+        <text>Ulen Dor Finigas Sonĝon</text>
+      </navLabel>
+      <content src="01-05.xhtml"/>
+    </navPoint>
+    <navPoint id="num_9" playOrder="9">
+      <navLabel>
+        <text>Gajal de Sfer</text>
+      </navLabel>
+      <content src="01-06.xhtml"/>
+    </navPoint>
+    <navPoint id="num_10" playOrder="10">
+      <navLabel>
+        <text>Vortaro</text>
+      </navLabel>
+      <content src="01-V.xhtml"/>
+    </navPoint>
+    <navPoint id="num_11" playOrder="11">
+      <navLabel>
+        <text>Atribuoj</text>
+      </navLabel>
+      <content src="Atribuoj.xhtml"/>
+    </navPoint>
+    <navPoint id="num_12" playOrder="12">
+      <navLabel>
+        <text>Senpage Haveblaj</text>
+      </navLabel>
+      <content src="Havelblaj.xhtml"/>
+    </navPoint>
+    <navPoint id="num_13" playOrder="13">
+      <navLabel>
+        <text>Permesilo</text>
+      </navLabel>
+      <content src="Permesilo.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

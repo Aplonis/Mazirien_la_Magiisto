@@ -1,0 +1,77 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Mazirien la Magiisto</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Vance, Jack">Jack Vance</dc:creator>
+    <dc:identifier opf:scheme="uuid" id="uuid_id">2e015888-43b4-46b1-a506-87138ed0a87a</dc:identifier>
+    <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.16.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:publisher>Mistera Sturno</dc:publisher>
+    <dc:language>eo</dc:language>
+    <dc:identifier opf:scheme="calibre">ab5c443f-ef9d-4f5b-9260-768374daea31</dc:identifier>
+    <meta name="calibre:title_sort" content="Mazirien la Magiisto"/>
+    <meta name="calibre:rating" content="10"/>
+    <meta name="calibre:author_link_map" content="{&quot;Jack Vance&quot;: &quot;&quot;}"/>
+    <meta name="calibre:series" content="La Mortanta Tero"/>
+    <meta name="calibre:series_index" content="2.0"/>
+    <meta name="cover" content="id22"/>
+  </metadata>
+  <manifest>
+    <item href="cover.xhtml" id="id26" media-type="application/xhtml+xml"/>
+    <item href="toc.xhtml" id="id24" media-type="application/xhtml+xml"/>
+    <item href="Titola_Pagxo.xhtml" id="id8" media-type="application/xhtml+xml"/>
+    <item href="Antauxparolo.xhtml" id="id23" media-type="application/xhtml+xml"/>
+    <item href="01-01.xhtml" id="id11" media-type="application/xhtml+xml"/>
+    <item href="01-02.xhtml" id="id13" media-type="application/xhtml+xml"/>
+    <item href="01-03.xhtml" id="id14" media-type="application/xhtml+xml"/>
+    <item href="01-04.xhtml" id="id15" media-type="application/xhtml+xml"/>
+    <item href="01-05.xhtml" id="id16" media-type="application/xhtml+xml"/>
+    <item href="01-06.xhtml" id="id12" media-type="application/xhtml+xml"/>
+    <item href="01-V.xhtml" id="id30" media-type="application/xhtml+xml"/>
+    <item href="Atribuoj.xhtml" id="id7" media-type="application/xhtml+xml"/>
+    <item href="Havelblaj.xhtml" id="id18" media-type="application/xhtml+xml"/>
+    <item href="Permesilo.xhtml" id="id17" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="styles/fonts.css" id="id9" media-type="text/css"/>
+    <item href="styles/starling.css" id="id35" media-type="text/css"/>
+    <item href="images/01-01-A.png" id="id25" media-type="image/png"/>
+    <item href="images/01-01-B.png" id="id27" media-type="image/png"/>
+    <item href="images/01-02.png" id="id28" media-type="image/png"/>
+    <item href="images/01-03.png" id="id33" media-type="image/png"/>
+    <item href="images/01-04.png" id="id29" media-type="image/png"/>
+    <item href="images/01-05.png" id="id32" media-type="image/png"/>
+    <item href="images/01-06.png" id="id34" media-type="image/png"/>
+    <item href="images/break.png" id="id19" media-type="image/png"/>
+    <item href="images/button_atom.png" id="id20" media-type="image/png"/>
+    <item href="images/cover.png" id="id22" media-type="image/png"/>
+    <item href="images/creative_commons.png" id="id21" media-type="image/png"/>
+    <item href="images/fino.png" id="id31" media-type="image/png"/>
+    <item href="fonts/LiberationMono-Regular.ttf" id="id6" media-type="application/x-font-truetype"/>
+    <item href="fonts/LiberationSans-Bold-Italic.ttf" id="id5" media-type="application/x-font-truetype"/>
+    <item href="fonts/LiberationSans-Bold.ttf" id="id4" media-type="application/x-font-truetype"/>
+    <item href="fonts/LiberationSans-Regular.ttf" id="id3" media-type="application/x-font-truetype"/>
+    <item href="fonts/LiberationSerif-Bold.ttf" id="id2" media-type="application/x-font-truetype"/>
+    <item href="fonts/LiberationSerif-Italic.ttf" id="id1" media-type="application/x-font-truetype"/>
+    <item href="fonts/LiberationSerif-Regular.ttf" id="id" media-type="application/x-font-truetype"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="id26"/>
+    <itemref idref="id24"/>
+    <itemref idref="id8"/>
+    <itemref idref="id23"/>
+    <itemref idref="id11"/>
+    <itemref idref="id13"/>
+    <itemref idref="id14"/>
+    <itemref idref="id15"/>
+    <itemref idref="id16"/>
+    <itemref idref="id12"/>
+    <itemref idref="id30"/>
+    <itemref idref="id7"/>
+    <itemref idref="id18"/>
+    <itemref idref="id17"/>
+  </spine>
+  <guide>
+    <reference type="toc" title="Table of Contents" href="toc.xhtml#calibre_generated_inline_toc"/>
+    <reference href="cover.xhtml" type="cover"/>
+  </guide>
+</package>
